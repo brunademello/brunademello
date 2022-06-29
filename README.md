@@ -1,8 +1,6 @@
--👋 Hi, I’m @brunademello :) 
+Hi, and welcome👋
 
-Welcome to my profile 😍
-
-I'm a Data Scientist and I always looking for new features in my area :)
+I am a data scientist and my line of study focuses on Machine Learning/Artificial Intelligence with a focus on natural language processing - NLP.
 
 <!---
 brunademello/brunademello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
