@@ -1,11 +1,12 @@
 Hello 👋
-Welcome to my profile!
 
-I'm a data engineer and a master's degree computer science student. 
+I'm a data engineer/analytics engineer and a master's degree computer science student. 
 
-On my profile you can find scripts in python focused on distributed processing of data, data ETL, data analysis, machine learning and so much more. 
+On my repositories you are able to find code built using python/scala focused on distributed processing of data, data ETL, data analysis, machine learning and some randomness things. 🤓
 
-Enjoy as much you need it  ✨
+![WelcomeGIF](https://github.com/brunademello/brunademello/assets/48892284/4d6c968d-94be-4943-b59c-6f4e409e5a9e)
+
+
 <!---
 
 I am a data scientist and my line of study focuses on Machine Learning/Artificial Intelligence with a focus on natural language processing - NLP.
