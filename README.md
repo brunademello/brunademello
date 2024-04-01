@@ -1,7 +1,5 @@
 Hello 👋
 
-I'm a data engineer/analytics engineer and a master's degree computer science student. 
-
 On my repositories you are able to find code built using python/scala focused on distributed processing of data, data ETL, data analysis, machine learning and some randomness things. 🤓
 
 ![WelcomeGIF](https://github.com/brunademello/brunademello/assets/48892284/4d6c968d-94be-4943-b59c-6f4e409e5a9e)
